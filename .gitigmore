@@ -1,0 +1,34 @@
+````shell
+* . pyc 
+
+_pycache_/
+````
+
+## 2. Indexar archivos y carpetas 
+
+Indexar todos los archicos y carpetas para indentificar los cambios
+
+````shell
+git add .
+````
+
+## 3. Crar un punto de control (CONMIT)
+
+Crear un punto de control con los cambios realizados en el proyecto 
+
+````shell
+git conmit -m "CREATED .gitignore"
+````
+
+* CREATED - Crear nuevos archivos o directorios
+* UPDATE - Actualizar modulos del sistema.
+* FIXED - Corregir errores del sistema.
+
+## 4. Sincronizar los cambios con el repositorio.
+
+Sincronizar los cambios con el repositorio
+
+````shell
+git push - u origin main 
+````
+
