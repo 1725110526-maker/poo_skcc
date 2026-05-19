@@ -12,12 +12,12 @@ Indexar todos los archicos y carpetas para indentificar los cambios
 git add .
 ````
 
-## 3. Crar un punto de control (CONMIT)
+## 3. Crear un punto de control (CONMIT)
 
 Crear un punto de control con los cambios realizados en el proyecto 
 
 ````shell
-git conmit -m "CREATED .gitignore"
+git commit -m "CREATED .gitigmore"
 ````
 
 * CREATED - Crear nuevos archivos o directorios
